@@ -2,7 +2,7 @@
 
 ## Overview of PyBer Analysis
 
-PyBer is a Python-based ridesharing app company in which we are tasked to be able to analyze their collected metrics on geographical and fare information. The information gathered can be organized and charted to be able to assist the company in administrative decision making such as adjusting their prices and areas or regions of focus. We are given two data sets in [city_data.csv](/Resources/city_data.csv) and [ride_data.csv](/Resources/ride_data.csv). We utilize Python in this analysis in conjunction with the Pandas library and Matplotlib to be able to create line graphs. The outputted code is in [PyBer_Challenge.ipynb](/PyBer_Challenge.ipynb).
+PyBer is a Python-based ridesharing app company in which we are tasked to be able to analyze their collected metrics on geographical and fare information. The information gathered can be organized and charted to be able to assist the company in administrative decision making such as adjusting their prices and regions of focus. We are given two data sets in [city_data.csv](/Resources/city_data.csv) and [ride_data.csv](/Resources/ride_data.csv). Python is used in this analysis in conjunction with the Pandas library and PyPlot with Matplotlib to be able to create line graphs. The outputted code is in [PyBer_Challenge.ipynb](/PyBer_Challenge.ipynb).
 
 ## PyBer Analysis Data Results 
 
@@ -30,3 +30,6 @@ Urban rides are likely to be shorter due to aspects of urban/city sprawl; howeve
 
 An additional recommendation would be to research alternative public tranporation fares in the area(s) to ensure that the company is still able to remain competitive, especially if rural prices are higher due to distance/scarcity. 
 
+## Resources
+
+- [city_data.csv](/Resources/city_data.csv) and [ride_data.csv](/Resources/ride_data.csv) as provided by UCSD Data Science and Visualization program
